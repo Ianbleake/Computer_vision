@@ -1,0 +1,23 @@
+introduccion
+Matematicas que sustentan lo que hicimos(Matrices AL,traspuesta)
+
+Desarrollo
+sin codigo, diagrama de flujo del proceso, haciendo uso de funciones generales
+No usar metodos de python.
+
+explicacion de lo que pasa con las imagenes
+
+Resultados 
+
+Concluciones
+En tersera persona
+
+Referencias
+
+el envio del codigo debe ser en un solo archivo (.Py o Jupiter)
+
+*PDF
+
+(*) Aprender a hacer un reporte tecnico
+
+Multiplicacion
